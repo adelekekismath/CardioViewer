@@ -6,9 +6,7 @@
         "esModuleInterop": true,
         "skipLibCheck": true,
         "forceConsistentCasingInFileNames": true,
-        "outDir": "./dist",
-        "lib": ["dom", "es2017"],
-        "types": ["cornerstone-core", "cornerstone-tools", "cornerstone-wado-image-loader"]
+        "outDir": "./dist"
     },
     "include": ["src/**/*"],
     "exclude": ["node_modules", "dist"]

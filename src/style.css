@@ -1,0 +1,15 @@
+.cornerstone-enabled-image {
+  width: 512px;
+  height: 512px;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+.drop-zone {
+  width: 512px;
+  height: 100px;
+  margin: 20px auto;
+  border: 2px dashed #aaa;
+  text-align: center;
+  line-height: 100px;
+}
